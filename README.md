@@ -1,1 +1,0 @@
-# fast-tg-alert
